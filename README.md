@@ -5,3 +5,4 @@ Basic Platformer Template for GameMaker Studio 2
 * Walk + Run states, Jump + Fall states
 * Tile Collisions
 * Jump higher by holding jump key
+* Respawn back on ground after falling down
